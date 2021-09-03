@@ -1,0 +1,53 @@
+body {
+    background-color:rgb(223, 174, 110)
+}
+
+body h1 {
+    color: rgb(100, 67, 5)
+
+}
+body h2 {
+    color: rgb(100, 67, 5)
+}
+
+button {
+    color: greenyellow
+}
+
+.container { 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    min-height: 50vh;
+}
+.btn-1 {
+    width: 200px;
+    height: 100px;
+    border: none;
+    color: black;
+    background-color: red;
+    border-radius: 4px;
+    font-size: x-large;
+}
+
+.btn-2 {
+        width: 200px;
+        height: 100px;
+        border: none;
+        color: black;
+        background-color: red;
+        border-radius: 4px;
+        font-size: x-large;
+
+}
+.btn-3 {
+    width: 200px;
+    height: 100px;
+    border: none;
+    color: black;
+    background-color: red;
+    border-radius: 4px;
+    font-size: x-large;
+}
