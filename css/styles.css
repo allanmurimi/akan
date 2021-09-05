@@ -6,6 +6,11 @@
     background-image: url("../images/art-ghana.jpg");
     min-height: calc(100vh - 40vh);
 }
+.section-container header h2 {
+    color: white;
+    text-align: center;
+    padding-top: 10rem;
+}
 .actions{
     display: flex;
     justify-content: space-evenly;
