@@ -12,5 +12,5 @@ html, javascript & css
 ## More about akan group ltd
 click: github.com/allanmurimi/akan/new/main
 ### License
-this website is licensed under M.I.T terms and conditions
+This website is licensed under M.I.T terms and conditions
 Copyright (c) {2021} **allanmurimi**
