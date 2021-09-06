@@ -1,4 +1,4 @@
-
+!![art-ghana](https://user-images.githubusercontent.com/89457206/132175101-f5f7ee01-9535-4edd-9097-5f6043f71b73.jpg)
 # akan
 a unique ghanaian naming culture where both genders are named after days of the week
 #### a task that was quit intensive and challenging.
