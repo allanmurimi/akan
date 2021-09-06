@@ -9,7 +9,7 @@ By **allanmurimi**
 company with a task to provide akan names based in ghana
 ## Technologies Used
 html, javascript & css
-## more about akan group ltd
+## More about akan group ltd
 click: github.com/allanmurimi/akan/new/main
 ### License
 this website is licensed under M.I.T terms and conditions
